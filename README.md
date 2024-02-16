@@ -5,7 +5,7 @@
 </p>
 
 # Hi! I am Harshal Pinge👩‍💻
-## A Developer who Designs!
+## developer by mistake..!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer8harshal&label=Profile%20views&color=0e75b6&style=flat" alt="developer8harshal" /> </p>
 
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamharshal8" target="blank"><img src="https://img.shields.io/twitter/follow/iamharshal8?logo=twitter&style=for-the-badge" alt="iamharshal8" /></a> </p>
 
-- 💬 Ask me about **React,Html,Css,Js,Tailwindcss,Bootstarp,MongoDb,Sql**
+- 💬 Ask me about **React, Html, CSS, Js, Tailwindcss, Bootstrap, MongoDB, SQL**
 
 - 📫 How to reach me **Harshalpinge@gmail.com**
 
