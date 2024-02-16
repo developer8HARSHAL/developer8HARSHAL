@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshal Pinge</h1>
-<h3 align="center">FRONTEND DEVELOPER</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer8harshal&label=Profile%20views&color=0e75b6&style=flat" alt="developer8harshal" /> </p>
 
