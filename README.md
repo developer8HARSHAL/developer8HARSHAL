@@ -6,7 +6,8 @@
 # Hi! I am Harshal Pinge👩‍💻
 ## developer by mistake..!
 
-<p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Ficonsimple-logotypes%2F512%2Fgithub-512.png&tbnid=G9U2Dai9GVGdNM&vet=12ahUKEwi3h7uwvrCEAxXDhmMGHWb2BtwQMygCegQIARBS..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F291716%2Fgithub_logo_social_network_social_icon&docid=JY-eVDG-JQ2uaM&w=512&h=512&q=github%20icon%20for%20resume&ved=2ahUKEwi3h7uwvrCEAxXDhmMGHWb2BtwQMygCegQIARBS" alt="developer8harshal" /> </p>
+<p align="left"> <img src="	data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEA…NGjRo0KBBgwYNGjRoUDX+AcAn/rxKDU59AAAAAElFTkSuQmCC
+" alt="developer8harshal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer8harshal" alt="developer8harshal" /></a> </p>
 
