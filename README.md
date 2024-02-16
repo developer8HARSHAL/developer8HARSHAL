@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
+</p>
+
 # hii i'm Harshal Pinge.
 A developer by mistake..!<br>
 
