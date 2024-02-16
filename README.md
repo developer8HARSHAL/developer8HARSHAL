@@ -4,7 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
 </p>
 
-- 📫 ** I'm Harshal................*
+# Hi! I am Harshal Pinge👩‍💻
+## A Developer who Designs!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer8harshal&label=Profile%20views&color=0e75b6&style=flat" alt="developer8harshal" /> </p>
 
