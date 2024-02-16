@@ -1,49 +1,45 @@
+# [Your GitHub Username](https://github.com/[your-github-username])
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
-</p>
+[![Header Image](/header-image.png)](https://github.com/[your-github-username])
 
-# Hi! I am Harshal Pinge👩‍💻
-## developer by mistake..!
+## About Me
 
-<p align="left"> <img src="	data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEA…NGjRo0KBBgwYNGjRoUDX+AcAn/rxKDU59AAAAAElFTkSuQmCC
-" alt="developer8harshal" /> </p>
+[Your Name](https://github.com/[your-github-username]) is a [Your Title/Role] with [Number of Years of Experience] years of experience in [Specific Skills or Technologies]. I am passionate about [Interests or Hobbies] and enjoy [Personal Hobbies or Activities].
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer8harshal" alt="developer8harshal" /></a> </p>
+## Skills
 
-<p align="left"> <a href="https://twitter.com/iamharshal8" target="blank"><img src="https://img.shields.io/twitter/follow/iamharshal8?logo=twitter&style=for-the-badge" alt="iamharshal8" /></a> </p>
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
+- [Skill 4]
+- [Skill 5]
 
-- 💬 Ask me about **React, HTML, CSS, JS, Tailwindcss, Bootstrap, MongoDB, SQL**
+## Projects
 
-- 📫 How to reach me **Harshalpinge@gmail.com**
+### [Project 1 Name](https://github.com/[your-github-username]/[project-1-repo])
 
-- ⚡ Fun fact **I'm a Developer**
+[Project 1 Description]
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### [Project 2 Name](https://github.com/[your-github-username]/[project-2-repo])
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://twitter.com/iamharshal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamharshal8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshal-pinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-pinge" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23346114/harshal-pinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23346114/harshal-pinge" height="30" width="40" /></a>
-<a href="https://medium.com/@harshalpinge2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshalpinge2" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshal32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshal32" height="30" width="40" /></a>
-</p>
+[Project 2 Description]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/----------------------------------------------------------------------------------------------------------------------------devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### [Project 3 Name](https://github.com/[your-github-username]/[project-3-repo])
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer8harshal&show_icons=true&locale=en&layout=compact" alt="developer8harshal" /></p>
+[Project 3 Description]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer8harshal&show_icons=true&locale=en" alt="developer8harshal" /></p>
+## Blog Posts
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer8harshal&" alt="developer8harshal" /></p>
+- [Blog Post 1 Title](https://www.example.com/blog-post-1)
+- [Blog Post 2 Title](https://www.example.com/blog-post-2)
+- [Blog Post 3 Title](https://www.example.com/blog-post-3)
 
+## Social Media
 
-### ✍️ Random Dev Quote
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+- [Twitter](https://twitter.com/[your-twitter-handle])
+- [LinkedIn](https://www.linkedin.com/in/[your-linkedin-handle])
+- [Stack Overflow](https://stackoverflow.com/users/[your-stack-overflow-username])
 
----
-[![](https://visitcount.itsvg.in/api?id=Harshal&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
+## Contact Me
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through any of my social media profiles or by email at [your-email-address](mailto:[your-email-address]).
