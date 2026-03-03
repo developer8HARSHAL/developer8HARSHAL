@@ -118,12 +118,14 @@ BE final year project. Personal finance coaching application — budget tracking
 **AI & Automation**
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-&nbsp;
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)](https://github.com/developer8HARSHAL)
-[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/developer8HARSHAL)
-[![n8n](https://img.shields.io/badge/n8n-EA4C89?style=flat-square&logo=n8n&logoColor=white)](https://github.com/developer8HARSHAL)
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)](https://github.com/developer8HARSHAL)
-[![Lyzr](https://img.shields.io/badge/Lyzr-6C63FF?style=flat-square&logoColor=white)](https://github.com/developer8HARSHAL)
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=flat-square&logo=n8n&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Lyzr](https://img.shields.io/badge/Lyzr-6C63FF?style=flat-square&logoColor=white)
 
 ---
 
