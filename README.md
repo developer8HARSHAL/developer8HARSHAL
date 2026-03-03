@@ -31,11 +31,9 @@ Currently seeking full-time roles in Frontend, Full Stack, or AI-adjacent Engine
 **Frontend Developer Intern** — Fulcrum Resources Infinity Pvt Ltd, Pune
 `Nov 2024 – Feb 2025` &nbsp;|&nbsp; Performance Rating: **4.5 / 5**
 
-Worked on a live HR product. Owned frontend feature delivery end-to-end — from design handoff to API integration to deployment.
-
 - Architected reusable component library in **Next.js + Tailwind CSS**, adopted across multiple product workflows
-- Integrated **25+ REST APIs** with JWT-based auth and role-based access control (RBAC) on the client
-- Applied code-splitting and lazy loading strategies; measurably reduced bundle size and improved page load efficiency
+- Integrated **25+ REST APIs** with JWT-based auth and RBAC on the client
+- Applied code-splitting and lazy loading; measurably reduced bundle size and improved page load efficiency
 - Delivered a **35% improvement in operational efficiency** via UI workflow automation and component reuse
 
 ---
@@ -45,10 +43,9 @@ Worked on a live HR product. Owned frontend feature delivery end-to-end — from
 ### [EDMS — Enterprise Document Management System](https://github.com/developer8HARSHAL/EDMS)
 `React · Redux Toolkit · Node.js · Express · MongoDB · JWT · GridFS`
 
-A full-stack document platform handling secure upload, retrieval, and role-gated access at scale.
+Full-stack document platform with secure upload, retrieval, and role-gated access at scale.
 
-**Architecture decisions worth noting:**
-- JWT + RBAC enforced at API layer — access scoped by role at every endpoint, not just UI-level guards
+- JWT + RBAC enforced at the API layer — access scoped by role at every endpoint, not just UI-level guards
 - **GridFS** for large binary file storage in MongoDB, avoiding the 16MB BSON document limit
 - Indexed search queries for fast document retrieval across a large collection
 - **25+ REST APIs** designed around resource ownership, not just CRUD operations
@@ -60,10 +57,10 @@ A full-stack document platform handling secure upload, retrieval, and role-gated
 
 Drop-in observability layer for Express APIs — designed to be imported and forgotten, not configured.
 
-- Lightweight middleware that captures **latency, throughput, and error rates** per endpoint automatically
-- Structured log pipeline into MongoDB; built aggregation queries for time-series performance data
-- Real-time analytics dashboard built in Next.js — tested against **10K+ requests/hour across 100+ endpoints**
-- Designed as a proper SDK: versioned, documented, and published to NPM for external consumption
+- Captures **latency, throughput, and error rates** per endpoint via lightweight Express middleware
+- Structured log pipeline into MongoDB with aggregation queries for time-series performance data
+- Real-time analytics dashboard in Next.js — tested at **10K+ requests/hour across 100+ endpoints**
+- Versioned, documented, and published to NPM for external consumption
 
 ---
 
@@ -72,36 +69,13 @@ Drop-in observability layer for Express APIs — designed to be imported and for
 
 Automated GitHub issue triage pipeline — ingests issues, deduplicates, and routes to the right team.
 
-- Embeds issue content via **OpenAI Ada**, stores in **Pinecone**, queries for semantic duplicate detection
-- GPT-4 performs root cause classification and confidence-scored severity ranking
-- Orchestrated as an end-to-end n8n workflow — **zero manual steps** from issue creation to Slack alert
-- Built to reduce triage overhead on high-volume issue backlogs
-
----
-
-### [AI Cost Optimization Advisor](https://github.com/developer8HARSHAL/AI-Cost-Optimization-Advisor)
-`Lyzr · Multi-Agent Orchestration · ROI Analysis`
-
-Multi-agent advisory system for enterprise AI adoption planning.
-
-- **Lyzr**-powered agent pipeline that decomposes cost optimization into parallel analysis tasks
-- Produces phased implementation plans with model-by-model ROI comparison and risk scoring
-- Designed for non-technical stakeholders — output formatted as structured decision reports
-
----
-
-### [CoinCoach](https://github.com/developer8HARSHAL/CoinCoach)
-`JavaScript · Full Stack`
-
-BE final year project. Personal finance coaching application — budget tracking, goal-setting, and spend analysis.
+- Embeds issue content via **OpenAI Ada**, stores in **Pinecone** for semantic duplicate detection
+- GPT-4 performs root cause classification with confidence-scored severity ranking
+- End-to-end n8n workflow — **zero manual steps** from issue creation to Slack alert
 
 ---
 
 ## Technical Skills
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" />
 
 **Frontend**
 
@@ -109,17 +83,13 @@ BE final year project. Personal finance coaching application — budget tracking
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
 
 **DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jest,figma&theme=dark" />
 
 **AI & Automation**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
@@ -144,23 +114,15 @@ BE final year project. Personal finance coaching application — budget tracking
 
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developer8HARSHAL&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF&bg_color=0D1117)](https://github.com/developer8HARSHAL)
-
-</div>
-
 ---
 
 ## Credentials
 
 | | |
 |---|---|
-| 🏅 LeetCode 50 Days Badge 2025 | Active problem-solving — 50+ consecutive days |
-| 🧩 150+ DSA Problems | LeetCode · CodeChef · HackerRank — Arrays, DP, Graphs, Trees |
-| 🦈 GitHub Pull Shark | PRs opened and merged across projects |
-| 📜 Edureka Full Stack Certification | ID: `RSBYSBZN` |
-| 🎓 B.E. Computer Engineering | Minor: Data Science · Zeal College of Engineering, Pune · 2025 |
+| 🏅 LeetCode 50 Days Badge 2025 | Consistent problem-solving — 50+ days in 2025 |
+| 🧩 150+ DSA Problems | LeetCode · CodeChef · HackerRank |
+| 🎓 B.E. Computer Engineering | Minor: Data Science · Zeal College of Engineering · 2025 |
 
 ---
 
